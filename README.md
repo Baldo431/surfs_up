@@ -22,8 +22,8 @@ This is twice the average difference of 4 degrees.
 <br />
 <br />
 <p align="center">
-    <img src="Deliverable_1.png">
-    <img src="Deliverable_2.png">
+    <img src="Deliverable_1.PNG">
+    <img src="Deliverable_2.PNG">
 </p>
 <p align="center">
 Figure 1
